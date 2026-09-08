@@ -1,0 +1,29 @@
+<svg width="400" height="300" viewBox="0 0 8 6" xmlns="http://www.w3.org/2000/svg" version="2">
+  <defs>
+    <rect id="square" x="0.025" y="0.025" width="0.95" height="0.95" fill="none" stroke="grey" stroke-width="0.05" />
+  </defs>
+  <use href="#square" x="4" y="0" />
+  <use href="#square" x="5" y="0" />
+  <use href="#square" x="4" y="1" />
+  <use href="#square" x="5" y="1" />
+  <use href="#square" x="0" y="2" />
+  <use href="#square" x="1" y="2" />
+  <use href="#square" x="2" y="2" />
+  <use href="#square" x="3" y="2" />
+  <use href="#square" x="4" y="2" />
+  <use href="#square" x="5" y="2" />
+  <use href="#square" x="6" y="2" />
+  <use href="#square" x="7" y="2" />
+  <use href="#square" x="0" y="3" />
+  <use href="#square" x="1" y="3" />
+  <use href="#square" x="2" y="3" />
+  <use href="#square" x="3" y="3" />
+  <use href="#square" x="4" y="3" />
+  <use href="#square" x="5" y="3" />
+  <use href="#square" x="6" y="3" />
+  <use href="#square" x="7" y="3" />
+  <use href="#square" x="4" y="4" />
+  <use href="#square" x="5" y="4" />
+  <use href="#square" x="4" y="5" />
+  <use href="#square" x="5" y="5" />
+</svg>
